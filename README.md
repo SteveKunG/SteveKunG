@@ -1,9 +1,14 @@
-# SteveKunG - Wasinthorn Suksri
+# SteveKunG
+
+## ✨ About me
+Hello, My name is Wasinthorn Suksri. My nick name is Best.
 
 - 🔭 I'm currently working on More Planets, and maybe some other projects.
 - 🌱 I'm currently learning Java (I mean, basic java...), Algorithm, Performance and Optimization.
 - 👯 I'm looking to collaborate on Galacticraft Project and Mojang Studio. That's my dream.
-- ⚡ Fun fact: I learned Java because of Minecraft Modding, It's my first programming language, seems weird right? Not gonna lie I haven't know any basic programming before. Just only do something about RA2 modding from Thai Forum when I was 12 years old. That's it.
+
+## ⚡ Fun fact
+I learned Java because of Minecraft Modding, It's my first programming language, seems weird right? Not gonna lie I haven't know or learning any basic programming before. Just only do something about Red Alert 2 modding from Thai Forum when I was 12 years old. That's it.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=stevekung&show_icons=true")
 

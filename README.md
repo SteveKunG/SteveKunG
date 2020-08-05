@@ -8,7 +8,7 @@ Hello, My name is Wasinthorn Suksri. My nick name is Best.
 - 👯 I'm looking to collaborate on Galacticraft Project and Mojang Studio. That's my dream.
 
 ## ⚡ Fun fact
-I learned Java because of Minecraft Modding, It's my first programming language, seems weird right? Not gonna lie I haven't know or learning any basic programming before. Just only do something about Red Alert 2 modding from Thai Forum when I was 12 years old. That's it.
+I learned Java because of Minecraft Modding, It's my first programming language, sounds weird right? Not gonna lie I haven't know or learning any basic programming before. Just only do something about Red Alert 2 modding from Thai Forum when I was 12 years old. That's it.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=stevekung&show_icons=true")
 

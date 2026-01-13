@@ -4,13 +4,13 @@
 
 Hi, My real name is Wasinthorn Suksri, my nick name is Best. I'm currently 26 years old.
 
-## Who am I?
+## 🧑‍🚀 Who am I?
 
 I'm a Java programming enjoyer for more than ten years, especially for Minecraft Modding.
 
 And now I'm a Java Software Engineer at the Transtron Co,. Ltd.
 
-## How did I get here?
+## 💡 How did I get here?
 
 When I was 12, I love to play games that matched my own liking. Such as Red Alert 2, Tiberian Sun, Warcraft, GTA or any popular games that exists in the era.
 
@@ -33,6 +33,6 @@ And today, I'm still doing it!
 - [Fish of Thieves](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)
   A mod which adds Sea of Thieves fish to the game.
 
-## Achievement
+## 🏆 Achievements
 - Over 15 million downloads on CurseForge.
 - Over 1 million downloads on Modrinth.

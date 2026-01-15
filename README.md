@@ -39,8 +39,8 @@ And today, I'm still doing it!
 - Over 15 million downloads on CurseForge.
 - Over 1 million downloads on Modrinth.
 
-## Other Side of me
-You might know me from the YouTube channel called SteveKunG.
+## 👀 Other Side of me
+You might know me from the YouTube channel called [SteveKunG](https://www.youtube.com/c/stevekungz).
 
 ### 🔊 How did I get this name?
 SteveKunG is come from when I started making a YouTube channel, but previously it is MCCommander → SteveMCCommander (What a cringe name 😶‍🌫️)

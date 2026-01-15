@@ -10,7 +10,7 @@ I'm a Java programming enjoyer for more than ten years, especially for Minecraft
 
 And now I'm a Java Software Engineer at the Transtron Co,. Ltd.
 
-And also I'm a YouTuber. Read more at [Other Side of me](#other-side-of-me)
+And also I'm a YouTuber. Read more at [Other Side of me](#-other-side-of-me)
 
 ## 💡 How did I get here?
 

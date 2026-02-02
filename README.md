@@ -2,13 +2,13 @@
 
 ## ✨ About me
 
-Hi, My real name is Wasinthorn Suksri, my nick name is Best. I'm currently 26 years old.
+Hi, My real name is Wasinthorn Suksri, my nick name is Best. I'm currently 27 years old.
 
 ## 🧑‍🚀 Who am I?
 
 I'm a Java programming enjoyer for more than ten years, especially for Minecraft Modding.
 
-And now I'm a Java Software Engineer at the Transtron Co,. Ltd.
+And now I'm a Java Software Engineer at the Transtron (Thailand) Co,. Ltd.
 
 And also I'm a YouTuber. Read more at [Other Side of me](#-other-side-of-me)
 

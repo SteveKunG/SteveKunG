@@ -36,8 +36,8 @@ And today, I'm still doing it!
   A mod which adds Sea of Thieves fish to the game.
 
 ## 🏆 Achievements
-- Over 15 million downloads on CurseForge.
-- Over 1 million downloads on Modrinth.
+- Over 15 million downloads on [CurseForge](https://www.curseforge.com/members/stevekung/projects).
+- Over 1.5 million downloads on [Modrinth](https://modrinth.com/user/SteveKunG).
 
 ## 👀 Other Side of me
 You might know me from the YouTube channel called [SteveKunG](https://www.youtube.com/c/stevekungz).
